@@ -1,0 +1,12 @@
+HAL/KEYPAD/KEYPAD.o HAL/KEYPAD/KEYPAD.o: ../HAL/KEYPAD/KEYPAD.c \
+  ../HAL/KEYPAD/../../STD_LIB/STD_TYPES.h \
+  ../HAL/KEYPAD/../../MCAL/DIO/DIO_Interface.h \
+  ../HAL/KEYPAD/KEYPAD_Interface.h ../HAL/KEYPAD/KEYPAD_Config.h
+
+../HAL/KEYPAD/../../STD_LIB/STD_TYPES.h:
+
+../HAL/KEYPAD/../../MCAL/DIO/DIO_Interface.h:
+
+../HAL/KEYPAD/KEYPAD_Interface.h:
+
+../HAL/KEYPAD/KEYPAD_Config.h:

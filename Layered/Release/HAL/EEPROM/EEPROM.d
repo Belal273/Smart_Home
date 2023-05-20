@@ -1,0 +1,15 @@
+HAL/EEPROM/EEPROM.o HAL/EEPROM/EEPROM.o: ../HAL/EEPROM/EEPROM.c \
+  ../HAL/EEPROM/../../STD_LIB/STD_TYPES.h \
+  ../HAL/EEPROM/../../STD_LIB/BIT_MATH.h ../HAL/EEPROM/EEPROM_Interface.h \
+  ../HAL/EEPROM/EEPROM_Config.h \
+  ../HAL/EEPROM/../../MCAL/TWI/TWI_Interface.h
+
+../HAL/EEPROM/../../STD_LIB/STD_TYPES.h:
+
+../HAL/EEPROM/../../STD_LIB/BIT_MATH.h:
+
+../HAL/EEPROM/EEPROM_Interface.h:
+
+../HAL/EEPROM/EEPROM_Config.h:
+
+../HAL/EEPROM/../../MCAL/TWI/TWI_Interface.h:
